@@ -12,6 +12,7 @@ app.use(bodyParser.urlencoded({
   extended: true
 }));
 
+const port  = process.env.port || 3000;
 
 const articles = [
     {
