@@ -1,0 +1,37 @@
+.main {
+    background-color: #FAD4D4;
+    padding: 5%;
+    text-align: left;
+}
+
+.articlebox {
+    background-color: #F47C7C;
+    padding: 5% 7%;
+    text-align: center;
+    border-radius: 45px;
+    margin: 5% 0;
+}
+
+.articlepage {
+    background-color: #EF9F9F;
+    padding: 5% 7%;
+    text-align: center;
+    margin : 5%;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: 'DM Serif Display', serif;
+    line-height: 1.5;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    text-align: center;
+    background-color: #570A57;
+    color: white;
+    padding: 5%;
+}
