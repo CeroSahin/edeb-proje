@@ -2,6 +2,7 @@
     background-color: #FAD4D4;
     padding: 5%;
     text-align: left;
+    height : 100%;
 }
 
 .articlebox {
@@ -10,13 +11,6 @@
     text-align: center;
     border-radius: 45px;
     margin: 5% 0;
-}
-
-.articlepage {
-    background-color: #EF9F9F;
-    padding: 5% 7%;
-    text-align: center;
-    margin : 5%;
 }
 
 h1 {
